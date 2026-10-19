@@ -5,6 +5,7 @@ This aims to bring AMXX plugins, metamod modules, that brings Quality of Life (Q
 
 
 --
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
